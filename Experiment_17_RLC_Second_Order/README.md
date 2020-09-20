@@ -5,10 +5,10 @@
 The goal of this experiment is to measure current across the resistor when the circuit is a RL series circuit.
 
 Channels used
-* AIN
-* CHA
-* GND
-* BIN
+* AIN -> Measuring Prob A
+* CHA -> Voltagr source
+* GND -> Ground
+* BIN -> Measuring Prob B
 
 Components used
 * 470 Ohm resistor
